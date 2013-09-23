@@ -1,0 +1,59 @@
+.card {
+	background:#fefabc; 
+	padding:15px;
+	padding-bottom: 45px;
+	font-family: "Lucida Handwriting", cursive;
+	font-size:15px; 
+	color: #000; 
+	width:200px; 
+	box-shadow: 0px 4px 6px #333;
+	-moz-box-shadow: 0px 4px 6px #333;
+	-webkit-box-shadow: 0px 4px 6px #333;
+}
+
+.cardOrientation, .cardTest, .cardDocumentation {
+    display: none;
+}
+.cardOrientation-left {
+    transform: rotate(-7deg);
+	-moz-transform: rotate(-7deg);
+	-webkit-transform: rotate(-7deg);
+	-o-transform: rotate(-7deg);
+	-ms-transform: rotate(-7deg);
+}
+.cardOrientation-right {
+    transform: rotate(7deg);
+	-moz-transform: rotate(7deg);
+	-webkit-transform: rotate(7deg);
+	-o-transform: rotate(7deg);
+	-ms-transform: rotate(7deg);
+}
+.cardTitle:after {
+    content: url("pin.png");
+    left: 100px;
+    position: absolute;
+    top: -10px;
+}
+.cardDocumentation-documentation .cardTitle:before {
+    content: url("red_dot.png");
+    left: 84px;
+    position: absolute;
+    bottom: 0;
+}
+.cardDocumentation-documentation.cardTest-test .cardTitle:before {
+    content: url("red_dot.png") url("green_dot.png");
+    left: 84px;
+    position: absolute;
+    bottom: 0;
+}
+.cardTest-test .cardTitle:before {
+    content: url("green_dot.png");
+    left: 116px;
+    position: absolute;
+    bottom: 0;
+}
+.cardOwner {
+    bottom: 5px;
+    position: absolute;
+    right: 5px;
+}

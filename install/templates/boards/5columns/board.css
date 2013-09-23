@@ -1,0 +1,30 @@
+#board {
+	overflow: auto;
+}
+
+.boardcolumn {
+	background: url("board_background.gif");
+	float:left;
+	width: 20%;
+	min-height:350px;
+	border: 2px solid black;	
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+#delete-area {
+    width: 10% !important;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+			
+.title {
+	background: url("metal_background.jpg");
+	text-align:center;
+	color:white;
+	padding: 2px 0px;
+}

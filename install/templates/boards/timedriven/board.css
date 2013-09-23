@@ -1,0 +1,59 @@
+#board {
+	overflow: auto;
+	background-color: #FFFFFF !important;
+}
+
+.boardcolumn {
+	float:left;
+	width: 19%;
+	min-height:350px;
+    border-color: black;
+    border-style: solid none solid dotted;
+    border-width: 1px;
+   	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+#board .boardcolumn.first {
+    border-style: solid none solid solid !important;
+}
+
+#delete-area {
+    width: 5% !important;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+			
+.title {
+	text-align:center;
+	padding: 2px 0px;
+	height: 34px;
+	background-color: #DDDDDD;
+}
+
+.title span.wip-prefix {
+    display: none;
+}
+
+.title span.wip-limit {
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+    background-color: mediumseagreen;
+    display: inline-block;
+    width: 32px;
+    margin-bottom: 2px;
+    margin-left: 10px;
+}
+
+.wip-reached .title span.wip-limit {
+    background-color: red;
+}
+
+#board .boardcolumn .title .column-name {
+	font-size: 120%;
+}

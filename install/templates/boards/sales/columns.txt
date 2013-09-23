@@ -1,0 +1,1 @@
+a:4:{s:5:"leads";a:1:{s:12:"display_name";s:5:"Leads";}s:9:"prospects";a:1:{s:12:"display_name";s:9:"Prospects";}s:13:"opportunities";a:1:{s:12:"display_name";s:13:"Opportunities";}s:6:"closes";a:1:{s:12:"display_name";s:6:"Closes";}}

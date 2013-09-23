@@ -1,0 +1,99 @@
+#board {
+	width: 100% !important;
+	height: 100% !important;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	background-color: #003366 !important;
+}
+
+.boardcolumn {
+	background-color: #DDDDDD;
+	display: table-cell;
+	width: 1000px;
+	border: 5px solid #003366;	
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	padding: 10px;
+	background-clip: padding-box;
+	-moz-background-clip: padding-box;
+	-webkit-background-clip: padding-box;
+}
+
+.card {
+	width: 100% !important;
+	margin: 5px 0 !important;
+	-moz-box-sizing: border-box;
+	min-height: auto !important;
+    min-width: auto !important;
+    max-width: 40% !important;
+}
+
+.boardcolumn .card {
+	max-width: none !important;
+}
+
+#delete-area {
+	display: none;
+}
+
+.title {
+	text-align:center;
+	padding: 2px 0px;
+	height: 34px;
+}
+
+.title span.wip-prefix {
+    display: none;
+}
+
+.title span.wip-limit {
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+    background-color: mediumseagreen;
+    display: inline-block;
+    width: 32px;
+    margin-bottom: 2px;
+    margin-left: 10px;
+	text-align: center;
+}
+
+.wip-reached .title span.wip-limit {
+    background-color: red;
+}
+
+
+.title a, .title span {
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.title {
+	text-align: left !important;
+}
+
+.title a.addcard:after {
+    content: "Add a card...";
+    font-size: 75%;
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.title a.addcard {
+    background: none repeat scroll 0 0 transparent !important;
+    float: right;
+    width: auto !important;
+}
+
+.title a.board-column-info {
+    float: left;
+    margin-right: 10px;
+    margin-top: 9px;
+}

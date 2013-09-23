@@ -1,0 +1,83 @@
+#cardTitle {
+}
+
+.card {
+	float:left;
+	border: 1px solid black;
+	margin: 10px;
+	min-height:60px;
+	min-width: 200px;
+	background-color: #FFFFFF;
+	-moz-box-shadow: 3px 3px 4px #444;
+	-webkit-box-shadow: 3px 3px 4px #444;
+	box-shadow: 3px 3px 4px #444;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#444444')";
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#444444');
+	padding-left: 5px;
+	padding-right: 5px;
+    padding-bottom: 20px;
+    max-width: 425px;
+}
+
+.cardTitle {
+	font-weight: bold;
+	margin-right: 20px;
+}
+
+.cardPriority-1 {
+	background-color: #FFBCBC;
+}
+
+.cardPriority-2 {
+	background-color: #FFFF99;
+}
+
+.cardOwner {
+    bottom: 0;
+    position: absolute;
+    right: 5px;
+}
+
+.cardPriority {
+    background: url("styles/images/priority_small.png") no-repeat scroll 0 0 transparent;
+    bottom: 0;
+    height: 18px;
+    line-height: 16px;
+    margin-bottom: 1px;
+    position: absolute;
+    text-align: center;
+    width: 45px;
+}
+
+.cardDueDate {
+    float: right;
+	margin-left: 10px;
+}
+
+.cardCreationDate {
+    float: left;
+	margin-right: 10px;
+}
+
+.cardNumber {
+ 	font-weight: bold;
+    top: 0;
+    right: 5px;
+    position: absolute;
+}
+
+.card_url {
+    bottom: 0;
+    left: 60px;
+    position: absolute;
+}
+
+.card.blocked-false .blocked, .card .blocked span {
+    display: none;
+}
+
+.card.blocked-true .blocked {
+    background: url("models/site-templates/images/blocked.png") repeat scroll 0 0 transparent;
+    height: 31px;
+    width: 32px;
+}

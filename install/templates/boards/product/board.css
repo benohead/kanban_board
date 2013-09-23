@@ -1,0 +1,19 @@
+#board {
+	overflow: auto;
+}
+
+.boardcolumn {
+	background: url("board_background.gif");
+	float:left;
+	width: 275px;
+	min-height:350px;
+	border: 2px solid black;	
+}
+
+.title {
+	background: url("metal_background.jpg");
+	text-align:center;
+	color:white;
+	padding: 2px 0px;
+}
+		

@@ -1,0 +1,43 @@
+#board {
+	overflow: auto;
+}
+		
+.boardcolumn {
+	float:left;
+	color: black;
+	width: 275px;
+	min-height:350px;
+	border: 1px dotted black;	
+}
+
+.title {
+	text-align:center;
+	color: black;
+	padding: 2px 0px;
+}
+#notes {
+    min-width: 1106px;
+    min-height: 126px;
+}
+#board {
+    max-width: 1108px;
+}
+#delete-area {
+    min-width: 1104px;
+    min-height: 126px;
+}
+#thingstodo {
+    background: none repeat scroll 0 0 #DDFFFF;
+}
+#next {
+    background: none repeat scroll 0 0 #FFDDFF;
+}
+#doing {
+    background: none repeat scroll 0 0 #FFFFDD;
+}
+#done {
+    background: none repeat scroll 0 0 #DDDDFF;
+}
+#notes {
+    background: none repeat scroll 0 0 #DDFFDD;
+}

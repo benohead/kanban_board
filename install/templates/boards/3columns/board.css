@@ -1,0 +1,45 @@
+#board {
+	height:560px;
+}
+
+.boardcolumn {
+	background: url("board_background.gif");
+	display: table-cell;
+	width: 1000px;
+	border: 2px solid black;	
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+#delete-area {
+	display: none;
+}
+
+.title {
+	background: url("metal_background.jpg");
+	text-align:center;
+	color:white;
+	padding: 2px 0px;
+	height: 34px;
+}
+
+.title span.wip-prefix {
+    display: none;
+}
+
+.title span.wip-limit {
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+    background-color: mediumseagreen;
+    display: inline-block;
+    width: 32px;
+    margin-bottom: 2px;
+    margin-left: 10px;
+}
+
+.wip-reached .title span.wip-limit {
+    background-color: red;
+}

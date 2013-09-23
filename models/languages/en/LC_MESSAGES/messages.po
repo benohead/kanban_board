@@ -1,0 +1,2540 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-06-07 00:12+0100\n"
+"PO-Revision-Date: 2013-06-07 00:13+0100\n"
+"Last-Translator: Henri Benoit <hb@amazingweb.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;translate\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\Software\\xampp-portable\\htdocs\\kanban\n"
+"X-Poedit-SearchPath-1: /Users/henribenoit/workspace/kanban\n"
+
+#: /Users/henribenoit/workspace/kanban/account.php:19
+msgid "Account"
+msgstr "Account"
+
+#: /Users/henribenoit/workspace/kanban/account.php:26
+#, php-format
+msgid ""
+"Hey, %1$s. Just so you know, your title at the moment is %2$s, and that can "
+"be changed in the admin panel. You registered this account on %3$s."
+msgstr ""
+"Hey, %1$s. Just so you know, your title at the moment is %2$s, and that can "
+"be changed in the admin panel. You registered this account on %3$s."
+
+#: /Users/henribenoit/workspace/kanban/activate-account.php:11
+#: /Users/henribenoit/workspace/kanban/activate-account.php:28
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:15
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:68
+msgid "Your activation token is not valid"
+msgstr "Your activation token is not valid"
+
+#: /Users/henribenoit/workspace/kanban/activate-account.php:15
+msgid "Token does not exist / Account is already activated"
+msgstr "Token does not exist / Account is already activated"
+
+#: /Users/henribenoit/workspace/kanban/activate-account.php:22
+#: /Users/henribenoit/workspace/kanban/add_role_action.php:29
+#: /Users/henribenoit/workspace/kanban/admin_role.php:26
+#: /Users/henribenoit/workspace/kanban/admin_role.php:47
+#: /Users/henribenoit/workspace/kanban/admin_role.php:59
+#: /Users/henribenoit/workspace/kanban/admin_role.php:70
+#: /Users/henribenoit/workspace/kanban/admin_user.php:26
+#: /Users/henribenoit/workspace/kanban/admin_user.php:52
+#: /Users/henribenoit/workspace/kanban/admin_user.php:67
+#: /Users/henribenoit/workspace/kanban/admin_user.php:89
+#: /Users/henribenoit/workspace/kanban/admin_user.php:108
+#: /Users/henribenoit/workspace/kanban/admin_user.php:120
+#: /Users/henribenoit/workspace/kanban/admin_user.php:130
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:38
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:53
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:75
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:94
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:106
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:116
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:44
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:50
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:77
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:161
+#: /Users/henribenoit/workspace/kanban/register.php:76
+#: /Users/henribenoit/workspace/kanban/register_action.php:71
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:72
+msgid "Fatal SQL error"
+msgstr "Fatal SQL error"
+
+#: /Users/henribenoit/workspace/kanban/activate-account.php:32
+msgid ""
+"You have successfully activated your account. You can now login <a href="
+"\"login.php\">here</a>."
+msgstr ""
+"You have successfully activated your account. You can now login <a href="
+"\"login.php\">here</a>."
+
+#: /Users/henribenoit/workspace/kanban/activate-account.php:43
+msgid "Activate Account"
+msgstr "Activate Account"
+
+#: /Users/henribenoit/workspace/kanban/activate_board.php:19
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:14
+msgid "Register board"
+msgstr "Register board"
+
+#: /Users/henribenoit/workspace/kanban/activate_board.php:32
+#: /Users/henribenoit/workspace/kanban/activate_board_action.php:16
+msgid "Successfully activated the board"
+msgstr "Successfully activated the board"
+
+#: /Users/henribenoit/workspace/kanban/activate_board.php:50
+msgid "Press \"Activate\" if you really want to activate the board"
+msgstr "Press \"Activate\" if you really want to activate the board"
+
+#: /Users/henribenoit/workspace/kanban/activate_board.php:54
+#: /Users/henribenoit/workspace/kanban/activate_project.php:56
+msgid "Activate"
+msgstr "Activate"
+
+#: /Users/henribenoit/workspace/kanban/activate_board.php:61
+#: /Users/henribenoit/workspace/kanban/deactivate_board.php:64
+#: /Users/henribenoit/workspace/kanban/delete_board.php:64
+#: /Users/henribenoit/workspace/kanban/delete_board_template.php:64
+msgid "Display board information"
+msgstr "Display board information"
+
+#: /Users/henribenoit/workspace/kanban/activate_board_dialog.php:14
+msgid "Press \"Activate board\" if you really want to activate the board"
+msgstr "Press \"Activate board\" if you really want to activate the board"
+
+#: /Users/henribenoit/workspace/kanban/activate_board_dialog.php:17
+#: /Users/henribenoit/workspace/kanban/display_board.php:66
+msgid "Activate board"
+msgstr "Activate board"
+
+#: /Users/henribenoit/workspace/kanban/activate_project.php:20
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:20
+#: /Users/henribenoit/workspace/kanban/deactivate_project.php:20
+#: /Users/henribenoit/workspace/kanban/delete_project.php:20
+msgid "Register project"
+msgstr "Register project"
+
+#: /Users/henribenoit/workspace/kanban/activate_project.php:33
+#: /Users/henribenoit/workspace/kanban/activate_project_action.php:16
+msgid "Successfully activated the project"
+msgstr "Successfully activated the project"
+
+#: /Users/henribenoit/workspace/kanban/activate_project.php:52
+msgid "Press \"Activate\" if you really want to activate the project"
+msgstr "Press \"Activate\" if you really want to activate the project"
+
+#: /Users/henribenoit/workspace/kanban/activate_project.php:64
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:100
+#: /Users/henribenoit/workspace/kanban/add_user_to_project.php:73
+#: /Users/henribenoit/workspace/kanban/deactivate_project.php:64
+#: /Users/henribenoit/workspace/kanban/delete_project.php:64
+msgid "To the project administration"
+msgstr "To the project administration"
+
+#: /Users/henribenoit/workspace/kanban/activate_project_dialog.php:14
+msgid "Press \"Activate project\" if you really want to activate the project"
+msgstr "Press \"Activate project\" if you really want to activate the project"
+
+#: /Users/henribenoit/workspace/kanban/activate_project_dialog.php:17
+msgid "Activate project"
+msgstr "Activate project"
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:33
+#: /Users/henribenoit/workspace/kanban/add_new_board_action.php:27
+#: /Users/henribenoit/workspace/kanban/clone_board_action.php:39
+#, php-format
+msgid "The board name must have between %1$d and %2$d characters."
+msgstr "The board name must have between %1$d and %2$d characters."
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:36
+#: /Users/henribenoit/workspace/kanban/add_new_board_action.php:30
+#: /Users/henribenoit/workspace/kanban/clone_board_action.php:42
+msgid "The board name must only contain alphanumeric characters."
+msgstr "The board name must only contain alphanumeric characters."
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:39
+#: /Users/henribenoit/workspace/kanban/add_new_board_action.php:33
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:42
+#: /Users/henribenoit/workspace/kanban/add_new_project_action.php:30
+#: /Users/henribenoit/workspace/kanban/clone_board_action.php:45
+#, php-format
+msgid "The display name must have between %1$d and %2$d characters."
+msgstr "The display name must have between %1$d and %2$d characters."
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:51
+#: /Users/henribenoit/workspace/kanban/add_new_board_action.php:43
+#: /Users/henribenoit/workspace/kanban/clone_board_action.php:58
+msgid "Board name already taken"
+msgstr "Board name already taken"
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:52
+#: /Users/henribenoit/workspace/kanban/add_new_board_action.php:44
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:54
+#: /Users/henribenoit/workspace/kanban/add_new_project_action.php:42
+#: /Users/henribenoit/workspace/kanban/clone_board_action.php:61
+msgid "Display name already taken"
+msgstr "Display name already taken"
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:58
+#: /Users/henribenoit/workspace/kanban/add_new_board_action.php:48
+#: /Users/henribenoit/workspace/kanban/clone_board_action.php:74
+msgid "Error inserting the board in the database"
+msgstr "Error inserting the board in the database"
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:61
+#: /Users/henribenoit/workspace/kanban/add_new_board_action.php:51
+#: /Users/henribenoit/workspace/kanban/clone_board_action.php:78
+#, php-format
+msgid "Board \"%1$s\" successfully created."
+msgstr "Board \"%1$s\" successfully created."
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:79
+#: /Users/henribenoit/workspace/kanban/add_new_board_dialog.php:14
+#: /Users/henribenoit/workspace/kanban/clone_board_dialog.php:14
+msgid "Board Name:"
+msgstr "Board Name:"
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:80
+#: /Users/henribenoit/workspace/kanban/add_new_board_dialog.php:15
+#: /Users/henribenoit/workspace/kanban/clone_board_dialog.php:15
+msgid "Board Name"
+msgstr "Board Name"
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:83
+#: /Users/henribenoit/workspace/kanban/add_new_board_dialog.php:18
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:87
+#: /Users/henribenoit/workspace/kanban/add_new_project_dialog.php:17
+#: /Users/henribenoit/workspace/kanban/admin_user.php:182
+#: /Users/henribenoit/workspace/kanban/admin_user_dialog.php:23
+#: /Users/henribenoit/workspace/kanban/clone_board_dialog.php:18
+#: /Users/henribenoit/workspace/kanban/register.php:116
+#: /Users/henribenoit/workspace/kanban/register_dialog.php:15
+msgid "Display Name:"
+msgstr "Display Name:"
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:84
+#: /Users/henribenoit/workspace/kanban/add_new_board_dialog.php:19
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:88
+#: /Users/henribenoit/workspace/kanban/add_new_project_dialog.php:18
+#: /Users/henribenoit/workspace/kanban/admin_user.php:183
+#: /Users/henribenoit/workspace/kanban/admin_user_dialog.php:24
+#: /Users/henribenoit/workspace/kanban/admin_users.php:35
+#: /Users/henribenoit/workspace/kanban/clone_board_dialog.php:19
+#: /Users/henribenoit/workspace/kanban/register.php:117
+#: /Users/henribenoit/workspace/kanban/register_dialog.php:16
+msgid "Display Name"
+msgstr "Display Name"
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:87
+#: /Users/henribenoit/workspace/kanban/add_new_board_dialog.php:22
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:91
+#: /Users/henribenoit/workspace/kanban/add_new_project_dialog.php:21
+#: /Users/henribenoit/workspace/kanban/admin_user.php:200
+#: /Users/henribenoit/workspace/kanban/admin_user_dialog.php:34
+#: /Users/henribenoit/workspace/kanban/clone_board_dialog.php:22
+#: /Users/henribenoit/workspace/kanban/export_board.php:129
+#: /Users/henribenoit/workspace/kanban/export_board.php:143
+#: /Users/henribenoit/workspace/kanban/export_board_dialog.php:24
+#: /Users/henribenoit/workspace/kanban/export_board_dialog.php:38
+msgid "Activate:"
+msgstr "Activate:"
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:91
+#: /Users/henribenoit/workspace/kanban/add_new_board_dialog.php:26
+msgid "Board Template:"
+msgstr "Board Template:"
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:104
+#: /Users/henribenoit/workspace/kanban/add_new_board_dialog.php:41
+msgid "Card Template:"
+msgstr "Card Template:"
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:119
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:96
+#: /Users/henribenoit/workspace/kanban/clone_board.php:50
+#: /Users/henribenoit/workspace/kanban/clone_board_template.php:50
+#: /Users/henribenoit/workspace/kanban/left-nav.php:38
+#: /Users/henribenoit/workspace/kanban/register.php:97
+#: /Users/henribenoit/workspace/kanban/register.php:140
+#: /Users/henribenoit/workspace/kanban/models/menu.php:32
+msgid "Register"
+msgstr "Register"
+
+#: /Users/henribenoit/workspace/kanban/add_new_board.php:123
+#: /Users/henribenoit/workspace/kanban/clone_board.php:54
+#: /Users/henribenoit/workspace/kanban/clone_board_template.php:54
+msgid "Back to the project details"
+msgstr "Back to the project details"
+
+#: /Users/henribenoit/workspace/kanban/add_new_board_dialog.php:56
+msgid "Add board"
+msgstr "Add board"
+
+#: /Users/henribenoit/workspace/kanban/add_new_card.php:24
+msgid "Add card"
+msgstr "Add card"
+
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:36
+#: /Users/henribenoit/workspace/kanban/add_new_project_action.php:24
+#, php-format
+msgid "The project name must have between %1$d and %2$d characters."
+msgstr "The project name must have between %1$d and %2$d characters."
+
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:39
+#: /Users/henribenoit/workspace/kanban/add_new_project_action.php:27
+msgid "The project name must only contain alphanumeric characters."
+msgstr "The project name must only contain alphanumeric characters."
+
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:53
+#: /Users/henribenoit/workspace/kanban/add_new_project_action.php:41
+msgid "Project name already taken"
+msgstr "Project name already taken"
+
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:56
+#: /Users/henribenoit/workspace/kanban/add_new_project_action.php:44
+msgid "An unknown error occured while preparing to add the project"
+msgstr "An unknown error occured while preparing to add the project"
+
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:60
+#: /Users/henribenoit/workspace/kanban/add_new_project_action.php:48
+msgid "Error inserting the project in the database"
+msgstr "Error inserting the project in the database"
+
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:62
+#: /Users/henribenoit/workspace/kanban/add_new_project_action.php:50
+msgid "An unknown error occured while adding the project"
+msgstr "An unknown error occured while adding the project"
+
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:66
+#: /Users/henribenoit/workspace/kanban/add_new_project_action.php:54
+#, php-format
+msgid "Project \"%1$s\" successfully created."
+msgstr "Project \"%1$s\" successfully created."
+
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:83
+#: /Users/henribenoit/workspace/kanban/add_new_project_dialog.php:13
+msgid "Project Name:"
+msgstr "Project Name:"
+
+#: /Users/henribenoit/workspace/kanban/add_new_project.php:84
+#: /Users/henribenoit/workspace/kanban/add_new_project_dialog.php:14
+msgid "Project Name"
+msgstr "Project Name"
+
+#: /Users/henribenoit/workspace/kanban/add_new_project_dialog.php:26
+msgid "Add project"
+msgstr "Add project"
+
+#: /Users/henribenoit/workspace/kanban/add_role_action.php:19
+#, php-format
+msgid "Role name %1$s is already in use"
+msgstr "Role name %1$s is already in use"
+
+#: /Users/henribenoit/workspace/kanban/add_role_action.php:22
+#: /Users/henribenoit/workspace/kanban/admin_role.php:40
+#, php-format
+msgid "Role names must be between %1$d and %2$d characters in length"
+msgstr "Role names must be between %1$d and %2$d characters in length"
+
+#: /Users/henribenoit/workspace/kanban/add_role_action.php:26
+#, php-format
+msgid "Successfully created the role \"%1$s\""
+msgstr "Successfully created the role \"%1$s\""
+
+#: /Users/henribenoit/workspace/kanban/add_role_dialog.php:11
+msgid "Role Name:"
+msgstr "Role Name:"
+
+#: /Users/henribenoit/workspace/kanban/add_role_dialog.php:12
+msgid "Role name"
+msgstr "Role name"
+
+#: /Users/henribenoit/workspace/kanban/add_role_dialog.php:15
+msgid "Add role"
+msgstr "Add role"
+
+#: /Users/henribenoit/workspace/kanban/add_user_to_project.php:21
+msgid "Add user to project"
+msgstr "Add user to project"
+
+#: /Users/henribenoit/workspace/kanban/add_user_to_project.php:59
+msgid "Read-only"
+msgstr "Read-only"
+
+#: /Users/henribenoit/workspace/kanban/add_user_to_project.php:60
+msgid "Normal user"
+msgstr "Normal user"
+
+#: /Users/henribenoit/workspace/kanban/add_user_to_project.php:61
+msgid "Administrator"
+msgstr "Administrator"
+
+#: /Users/henribenoit/workspace/kanban/add_user_to_project.php:66
+msgid "Add user(s)"
+msgstr "Add user(s)"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:21
+msgid "Board Template Details"
+msgstr "Board Template Details"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:33
+msgid "Board template updated"
+msgstr "Board template updated"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:51
+#: /Users/henribenoit/workspace/kanban/display_board.php:54
+msgid "Short name:"
+msgstr "Short name:"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:55
+#: /Users/henribenoit/workspace/kanban/display_board.php:58
+msgid "Display name:"
+msgstr "Display name:"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:59
+#: /Users/henribenoit/workspace/kanban/admin_user.php:189
+#: /Users/henribenoit/workspace/kanban/display_board.php:62
+msgid "Active:"
+msgstr "Active:"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:63
+msgid "Activate template"
+msgstr "Activate template"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:69
+msgid "Deactivate template"
+msgstr "Deactivate template"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:76
+msgid "Delete template"
+msgstr "Delete template"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:78
+msgid "Clone template"
+msgstr "Clone template"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:83
+msgid "Board columns"
+msgstr "Board columns"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:105
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:351
+#: /Users/henribenoit/workspace/kanban/customize_columns_dialog.php:39
+msgid "Add column to board"
+msgstr "Add column to board"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:107
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:352
+#: /Users/henribenoit/workspace/kanban/board_columns_editor.php:58
+#: /Users/henribenoit/workspace/kanban/customize_columns_dialog.php:40
+msgid "Add column"
+msgstr "Add column"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:111
+#: /Users/henribenoit/workspace/kanban/display_board.php:89
+#: /Users/henribenoit/workspace/kanban/display_board_dialog.php:17
+msgid "Board appearance"
+msgstr "Board appearance"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:120
+msgid "Board preview"
+msgstr "Board preview"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:126
+#: /Users/henribenoit/workspace/kanban/display_board.php:98
+#: /Users/henribenoit/workspace/kanban/display_board_dialog.php:23
+msgid "Board Scripting"
+msgstr "Board Scripting"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:142
+msgid "Board template not found !"
+msgstr "Board template not found !"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:153
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:80
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:341
+#: /Users/henribenoit/workspace/kanban/board_columns_editor.php:73
+#: /Users/henribenoit/workspace/kanban/customize_columns_dialog.php:27
+#: /Users/henribenoit/workspace/kanban/customize_columns_dialog.php:73
+msgid "WIP:"
+msgstr "WIP:"
+
+#: /Users/henribenoit/workspace/kanban/admin_board_template.php:156
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:92
+#: /Users/henribenoit/workspace/kanban/board_columns_editor.php:76
+#: /Users/henribenoit/workspace/kanban/customize_columns_dialog.php:85
+msgid "Do you really want to delete this column?"
+msgstr "Do you really want to delete this column?"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:19
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:33
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:50
+#, php-format
+msgid "Site name must be between %1$d and %2$d characters in length"
+msgstr "Site name must be between %1$d and %2$d characters in length"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:36
+msgid "Please include the ending / in your site's URL"
+msgstr "Please include the ending / in your site's URL"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:54
+msgid "The email you have entered is not valid"
+msgstr "The email you have entered is not valid"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:68
+msgid "Email activation must be either \"true\" or \"false\""
+msgstr "Email activation must be either \"true\" or \"false\""
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:82
+#, php-format
+msgid "Activation Threshold must be between %1$d and %2$d hours"
+msgstr "Activation Threshold must be between %1$d and %2$d hours"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:96
+#, php-format
+msgid "Template path must be between %1$d and %2$d characters in length"
+msgstr "Template path must be between %1$d and %2$d characters in length"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:99
+#, php-format
+msgid "There is no file for the template key \"%1$s\""
+msgstr "There is no file for the template key \"%1$s\""
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:111
+msgid ""
+"Your site's configuration has been updated. You may need to load a new page "
+"for all the settings to take effect"
+msgstr ""
+"Your site's configuration has been updated. You may need to load a new page "
+"for all the settings to take effect"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:130
+#: /Users/henribenoit/workspace/kanban/left-nav.php:23
+#: /Users/henribenoit/workspace/kanban/models/menu.php:20
+msgid "Admin Configuration"
+msgstr "Admin Configuration"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:142
+msgid "Website Name:"
+msgstr "Website Name:"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:143
+msgid "Website Name"
+msgstr "Website Name"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:146
+msgid "Website URL:"
+msgstr "Website URL:"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:147
+msgid "Website URL"
+msgstr "Website URL"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:150
+#: /Users/henribenoit/workspace/kanban/admin_user.php:186
+#: /Users/henribenoit/workspace/kanban/admin_user_dialog.php:27
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:202
+#: /Users/henribenoit/workspace/kanban/register.php:128
+#: /Users/henribenoit/workspace/kanban/register_dialog.php:27
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:152
+#: /Users/henribenoit/workspace/kanban/user_settings.php:132
+msgid "Email:"
+msgstr "Email:"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:151
+#: /Users/henribenoit/workspace/kanban/admin_user.php:186
+#: /Users/henribenoit/workspace/kanban/admin_user_dialog.php:28
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:203
+#: /Users/henribenoit/workspace/kanban/register.php:129
+#: /Users/henribenoit/workspace/kanban/register_dialog.php:28
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:153
+#: /Users/henribenoit/workspace/kanban/user_settings.php:133
+msgid "Email Address"
+msgstr "Email Address"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:154
+msgid "Activation Threshold:"
+msgstr "Activation Threshold:"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:155
+msgid "Activation Threshold"
+msgstr "Activation Threshold"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:158
+msgid "Email Activation:"
+msgstr "Email Activation:"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:165
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:175
+msgid "True"
+msgstr "True"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:168
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:178
+msgid "False"
+msgstr "False"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:186
+msgid "Template:"
+msgstr "Template:"
+
+#: /Users/henribenoit/workspace/kanban/admin_configuration.php:209
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:206
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:157
+msgid "Submit"
+msgstr "Submit"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:22
+#: /Users/henribenoit/workspace/kanban/left-nav.php:26
+#: /Users/henribenoit/workspace/kanban/models/menu.php:23
+msgid "Admin Projects"
+msgstr "Admin Projects"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:32
+msgid "Add new project"
+msgstr "Add new project"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:33
+msgid "New Project"
+msgstr "New Project"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:46
+msgid "Do you really want to delete this card attribute?"
+msgstr "Do you really want to delete this card attribute?"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:117
+#: /Users/henribenoit/workspace/kanban/board_rules_editor.php:85
+msgid "Do you really want to delete this rule?"
+msgstr "Do you really want to delete this rule?"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:124
+msgid "Do you really want to delete this generator?"
+msgstr "Do you really want to delete this generator?"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:175
+msgid "Project not active. Activate it."
+msgstr "Project not active. Activate it."
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:178
+msgid "Project active. Deactivate it."
+msgstr "Project active. Deactivate it."
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:181
+#: /Users/henribenoit/workspace/kanban/delete_project_dialog.php:16
+msgid "Delete project"
+msgstr "Delete project"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:184
+msgid "Display project"
+msgstr "Display project"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:187
+msgid "Add new board to project"
+msgstr "Add new board to project"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:189
+msgid "New board"
+msgstr "New board"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:223
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:382
+msgid "Default tooltip"
+msgstr "Default tooltip"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:235
+msgid "Board not active. Activate board."
+msgstr "Board not active. Activate board."
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:239
+msgid "Board active. Deactivate board."
+msgstr "Board active. Deactivate board."
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:243
+#: /Users/henribenoit/workspace/kanban/delete_board.php:21
+#: /Users/henribenoit/workspace/kanban/delete_board_dialog.php:17
+#: /Users/henribenoit/workspace/kanban/delete_board_template.php:21
+#: /Users/henribenoit/workspace/kanban/display_board.php:79
+msgid "Delete board"
+msgstr "Delete board"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:246
+msgid "Display board info"
+msgstr "Display board info"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:249
+#: /Users/henribenoit/workspace/kanban/clone_board.php:21
+#: /Users/henribenoit/workspace/kanban/clone_board_dialog.php:30
+#: /Users/henribenoit/workspace/kanban/clone_board_template.php:21
+#: /Users/henribenoit/workspace/kanban/display_board.php:81
+msgid "Clone board"
+msgstr "Clone board"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:252
+msgid "Export as template"
+msgstr "Export as template"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:255
+msgid "Export as template to disk"
+msgstr "Export as template to disk"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:258
+msgid "Export to Excel"
+msgstr "Export to Excel"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:270
+#: /Users/henribenoit/workspace/kanban/board_rules_editor.php:51
+msgid "All"
+msgstr "All"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:277
+#: /Users/henribenoit/workspace/kanban/board_rules_editor.php:58
+msgid "Always"
+msgstr "Always"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:282
+#: /Users/henribenoit/workspace/kanban/board_rules_editor.php:63
+msgid "logged in user"
+msgstr "logged in user"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:283
+#: /Users/henribenoit/workspace/kanban/board_rules_editor.php:64
+msgid "role of logged in user"
+msgstr "role of logged in user"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:305
+msgid "a card is moved from"
+msgstr "a card is moved from"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:305
+msgid "a card is moved to"
+msgstr "a card is moved to"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:319
+#, php-format
+msgid "%1$s column %2$s when %3$s is %4$s"
+msgstr "%1$s column %2$s when %3$s is %4$s"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:328
+#, php-format
+msgid "Write %1$s in attribute %4$s when %2$s column %3$s"
+msgstr "Write %1$s in attribute %4$s when %2$s column %3$s"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:342
+#: /Users/henribenoit/workspace/kanban/customize_columns_dialog.php:28
+msgid "None"
+msgstr "None"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:350
+#: /Users/henribenoit/workspace/kanban/customize_columns_dialog.php:38
+msgid "Column Name"
+msgstr "Column Name"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:353
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:354
+#: /Users/henribenoit/workspace/kanban/board_columns_editor.php:62
+#: /Users/henribenoit/workspace/kanban/customize_columns_dialog.php:44
+#: /Users/henribenoit/workspace/kanban/customize_columns_dialog.php:45
+msgid "Save columns"
+msgstr "Save columns"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:363
+msgid "No attributes defined for this board yet.<br><br>"
+msgstr "No attributes defined for this board yet.<br><br>"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:369
+msgid "Attribute name"
+msgstr "Attribute name"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:371
+msgid "Multi-line text"
+msgstr "Multi-line text"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:372
+msgid "SQL command"
+msgstr "SQL command"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:373
+msgid "List of values"
+msgstr "List of values"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:374
+msgid "Single line text"
+msgstr "Single line text"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:375
+msgid "Numeric"
+msgstr "Numeric"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:376
+msgid "Date"
+msgstr "Date"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:377
+msgid "List of users"
+msgstr "List of users"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:378
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:392
+msgid "Attribute Name"
+msgstr "Attribute Name"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:393
+msgid "Add card attribute to board"
+msgstr "Add card attribute to board"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:394
+msgid "Add attribute"
+msgstr "Add attribute"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:395
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:396
+msgid "Save attributes"
+msgstr "Save attributes"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:405
+msgid "No rules defined for this board yet.<br><br>"
+msgstr "No rules defined for this board yet.<br><br>"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:423
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:425
+msgid "Add rule"
+msgstr "Add rule"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:427
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:428
+msgid "Save rules"
+msgstr "Save rules"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:437
+msgid "No generators defined for this board yet.<br><br>"
+msgstr "No generators defined for this board yet.<br><br>"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:456
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:458
+msgid "Add generator"
+msgstr "Add generator"
+
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:460
+#: /Users/henribenoit/workspace/kanban/admin_projects.php:461
+msgid "Save generators"
+msgstr "Save generators"
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:23
+#, php-format
+msgid "Successfully deleted %1$d role(s)"
+msgstr "Successfully deleted %1$d role(s)"
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:37
+#, php-format
+msgid "Role name \"%1$s\" is already in use"
+msgstr "Role name \"%1$s\" is already in use"
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:44
+#, php-format
+msgid "Role name changed to \"%1$s\""
+msgstr "Role name changed to \"%1$s\""
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:56
+#, php-format
+msgid "Successfully removed %1$d user(s)"
+msgstr "Successfully removed %1$d user(s)"
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:67
+#, php-format
+msgid "Successfully added %1$d user(s)"
+msgstr "Successfully added %1$d user(s)"
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:93
+#: /Users/henribenoit/workspace/kanban/admin_roles.php:23
+#: /Users/henribenoit/workspace/kanban/left-nav.php:25
+#: /Users/henribenoit/workspace/kanban/models/menu.php:22
+msgid "Admin Roles"
+msgstr "Admin Roles"
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:108
+msgid "Role Information"
+msgstr "Role Information"
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:112
+#: /Users/henribenoit/workspace/kanban/admin_user.php:174
+msgid "ID:"
+msgstr "ID:"
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:116
+msgid "Name:"
+msgstr "Name:"
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:117
+#: /Users/henribenoit/workspace/kanban/admin_roles.php:35
+msgid "Role Name"
+msgstr "Role Name"
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:120
+#: /Users/henribenoit/workspace/kanban/admin_user.php:229
+msgid "Delete:"
+msgstr "Delete:"
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:129
+#: /Users/henribenoit/workspace/kanban/admin_user.php:241
+#: /Users/henribenoit/workspace/kanban/admin_user_dialog.php:48
+msgid "Role Membership"
+msgstr "Role Membership"
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:133
+msgid "Remove Members:"
+msgstr "Remove Members:"
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:149
+msgid "Add Members:"
+msgstr "Add Members:"
+
+#: /Users/henribenoit/workspace/kanban/admin_role.php:168
+#: /Users/henribenoit/workspace/kanban/admin_user.php:234
+#: /Users/henribenoit/workspace/kanban/user_settings.php:145
+msgid "Update"
+msgstr "Update"
+
+#: /Users/henribenoit/workspace/kanban/admin_roles.php:43
+#: /Users/henribenoit/workspace/kanban/delete_role_dialog.php:16
+msgid "Delete role"
+msgstr "Delete role"
+
+#: /Users/henribenoit/workspace/kanban/admin_roles.php:56
+#: /Users/henribenoit/workspace/kanban/admin_roles.php:58
+msgid "Add new role"
+msgstr "Add new role"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:15
+msgid "Admin Statistics"
+msgstr "Admin Statistics"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:23
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:42
+#, php-format
+msgid "Current user: %1$s"
+msgstr "Current user: %1$s"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:24
+#: /Users/henribenoit/workspace/kanban/board.php:52
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:43
+#: /Users/henribenoit/workspace/kanban/left-nav.php:16
+#: /Users/henribenoit/workspace/kanban/models/menu.php:15
+msgid "Logout"
+msgstr "Logout"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:25
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:44
+#: /Users/henribenoit/workspace/kanban/project_admin.php:19
+msgid "Project Administration"
+msgstr "Project Administration"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:26
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:53
+msgid "Kanban view"
+msgstr "Kanban view"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:27
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:57
+msgid "Archive view"
+msgstr "Archive view"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:28
+#: /Users/henribenoit/workspace/kanban/board.php:909
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:63
+msgid "List view"
+msgstr "List view"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:41
+msgid "Daily"
+msgstr "Daily"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:41
+msgid "Weekly"
+msgstr "Weekly"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:41
+msgid "Monthly"
+msgstr "Monthly"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:42
+msgid "Count"
+msgstr "Count"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:42
+msgid "Sum"
+msgstr "Sum"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:42
+msgid "Average"
+msgstr "Average"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:42
+msgid "Max"
+msgstr "Max"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:42
+msgid "Min"
+msgstr "Min"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:43
+msgid "n.a."
+msgstr "n.a."
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:59
+msgid "Statistics Name"
+msgstr "Statistics Name"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:60
+msgid "Add statistics for board"
+msgstr "Add statistics for board"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:61
+msgid "Add"
+msgstr "Add"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:62
+msgid "Save statistics"
+msgstr "Save statistics"
+
+#: /Users/henribenoit/workspace/kanban/admin_statistics.php:63
+msgid "Save"
+msgstr "Save"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:25
+#: /Users/henribenoit/workspace/kanban/left-nav.php:27
+msgid "Admin Templates"
+msgstr "Admin Templates"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:40
+msgid "Add new board template"
+msgstr "Add new board template"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:41
+msgid "New Board Template"
+msgstr "New Board Template"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:43
+msgid "Reload board templates from installation folder"
+msgstr "Reload board templates from installation folder"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:44
+msgid "Reload Board Templates"
+msgstr "Reload Board Templates"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:56
+msgid "Board template not active. Activate it."
+msgstr "Board template not active. Activate it."
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:59
+msgid "Board template active. Deactivate it."
+msgstr "Board template active. Deactivate it."
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:62
+msgid "Delete board template"
+msgstr "Delete board template"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:65
+msgid "Display board template"
+msgstr "Display board template"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:67
+msgid "Clone board template"
+msgstr "Clone board template"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:69
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:108
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:146
+msgid "Export to disk"
+msgstr "Export to disk"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:78
+msgid "Add new card template"
+msgstr "Add new card template"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:79
+msgid "New Card Template"
+msgstr "New Card Template"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:81
+msgid "Reload card templates from installation folder"
+msgstr "Reload card templates from installation folder"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:82
+msgid "Reload Card Templates"
+msgstr "Reload Card Templates"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:95
+msgid "Card template not active. Activate it."
+msgstr "Card template not active. Activate it."
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:98
+msgid "Card template active. Deactivate it."
+msgstr "Card template active. Deactivate it."
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:101
+msgid "Delete card template"
+msgstr "Delete card template"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:104
+msgid "Display card template"
+msgstr "Display card template"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:106
+msgid "Clone card template"
+msgstr "Clone card template"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:117
+msgid "Add new rule type"
+msgstr "Add new rule type"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:118
+msgid "New Rule Type"
+msgstr "New Rule Type"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:120
+msgid "Reload rule types from installation folder"
+msgstr "Reload rule types from installation folder"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:121
+msgid "Reload Rule Types"
+msgstr "Reload Rule Types"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:133
+msgid "Rule type not active. Activate it."
+msgstr "Rule type not active. Activate it."
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:136
+msgid "Rule type active. Deactivate it."
+msgstr "Rule type active. Deactivate it."
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:139
+msgid "Delete rule type"
+msgstr "Delete rule type"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:142
+msgid "Display rule type"
+msgstr "Display rule type"
+
+#: /Users/henribenoit/workspace/kanban/admin_templates.php:144
+msgid "Clone rule type"
+msgstr "Clone rule type"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:23
+#, php-format
+msgid "You have successfully deleted %1$d users"
+msgstr "You have successfully deleted %1$d users"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:38
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:24
+#: /Users/henribenoit/workspace/kanban/register.php:67
+#: /Users/henribenoit/workspace/kanban/register_action.php:62
+#, php-format
+msgid "Display name %1$s is already in use"
+msgstr "Display name %1$s is already in use"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:42
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:28
+msgid "Your display name must be between %m1% and %m2% characters in length"
+msgstr "Your display name must be between %m1% and %m2% characters in length"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:45
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:31
+#: /Users/henribenoit/workspace/kanban/register.php:43
+#: /Users/henribenoit/workspace/kanban/register_action.php:38
+msgid "Display name can only include alpha-numeric characters"
+msgstr "Display name can only include alpha-numeric characters"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:49
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:35
+#, php-format
+msgid "Display name changed to %1$s"
+msgstr "Display name changed to %1$s"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:64
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:50
+#, php-format
+msgid "%1$s's account has been manually activated"
+msgstr "%1$s's account has been manually activated"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:78
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:64
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:101
+#: /Users/henribenoit/workspace/kanban/register.php:55
+#: /Users/henribenoit/workspace/kanban/register_action.php:50
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:23
+#: /Users/henribenoit/workspace/kanban/user_settings.php:46
+msgid "Invalid email address"
+msgstr "Invalid email address"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:82
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:68
+#: /Users/henribenoit/workspace/kanban/register.php:68
+#: /Users/henribenoit/workspace/kanban/register_action.php:63
+#: /Users/henribenoit/workspace/kanban/user_settings.php:50
+#, php-format
+msgid "Email %1$s is already in use"
+msgstr "Email %1$s is already in use"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:86
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:72
+#: /Users/henribenoit/workspace/kanban/user_settings.php:57
+msgid "Account email updated"
+msgstr "Account email updated"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:101
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:87
+#, php-format
+msgid "Titles must be between %1$d and %2$d characters in length"
+msgstr "Titles must be between %1$d and %2$d characters in length"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:105
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:91
+#, php-format
+msgid "%1$s's title changed to %2$s"
+msgstr "%1$s's title changed to %2$s"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:117
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:103
+#, php-format
+msgid "Removed access from %1$d roles"
+msgstr "Removed access from %1$d roles"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:127
+#: /Users/henribenoit/workspace/kanban/admin_user_action.php:113
+#, php-format
+msgid "Added access to %1$d roles"
+msgstr "Added access to %1$d roles"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:154
+msgid "Admin User"
+msgstr "Admin User"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:170
+#: /Users/henribenoit/workspace/kanban/admin_user_dialog.php:19
+msgid "User Information"
+msgstr "User Information"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:178
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:198
+#: /Users/henribenoit/workspace/kanban/login.php:122
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:148
+msgid "Username:"
+msgstr "Username:"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:193
+msgid "Yes"
+msgstr "Yes"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:196
+msgid "No"
+msgstr "No"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:208
+#: /Users/henribenoit/workspace/kanban/admin_user_dialog.php:41
+msgid "Title:"
+msgstr "Title:"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:209
+#: /Users/henribenoit/workspace/kanban/admin_user_dialog.php:42
+#: /Users/henribenoit/workspace/kanban/admin_users.php:36
+#: /Users/henribenoit/workspace/kanban/retrieve_from_archive_dialog.php:23
+msgid "Title"
+msgstr "Title"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:212
+msgid "Sign Up:"
+msgstr "Sign Up:"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:216
+msgid "Last Sign In:"
+msgstr "Last Sign In:"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:220
+#: /Users/henribenoit/workspace/kanban/admin_users.php:60
+msgid "Never"
+msgstr "Never"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:245
+#: /Users/henribenoit/workspace/kanban/admin_user_dialog.php:52
+msgid "Remove Role:"
+msgstr "Remove Role:"
+
+#: /Users/henribenoit/workspace/kanban/admin_user.php:262
+#: /Users/henribenoit/workspace/kanban/admin_user_dialog.php:69
+msgid "Add Role:"
+msgstr "Add Role:"
+
+#: /Users/henribenoit/workspace/kanban/admin_user_dialog.php:88
+msgid "Update user"
+msgstr "Update user"
+
+#: /Users/henribenoit/workspace/kanban/admin_users.php:22
+#: /Users/henribenoit/workspace/kanban/left-nav.php:24
+#: /Users/henribenoit/workspace/kanban/models/menu.php:21
+msgid "Admin Users"
+msgstr "Admin Users"
+
+#: /Users/henribenoit/workspace/kanban/admin_users.php:34
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:199
+#: /Users/henribenoit/workspace/kanban/login.php:123
+#: /Users/henribenoit/workspace/kanban/register.php:113
+#: /Users/henribenoit/workspace/kanban/register_dialog.php:12
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:149
+msgid "Username"
+msgstr "Username"
+
+#: /Users/henribenoit/workspace/kanban/admin_users.php:37
+msgid "Sign Up"
+msgstr "Sign Up"
+
+#: /Users/henribenoit/workspace/kanban/admin_users.php:38
+msgid "Last Sign In"
+msgstr "Last Sign In"
+
+#: /Users/henribenoit/workspace/kanban/admin_users.php:46
+#: /Users/henribenoit/workspace/kanban/delete_user_dialog.php:16
+msgid "Delete user"
+msgstr "Delete user"
+
+#: /Users/henribenoit/workspace/kanban/admin_users.php:73
+#: /Users/henribenoit/workspace/kanban/admin_users.php:75
+msgid "Add new user"
+msgstr "Add new user"
+
+#: /Users/henribenoit/workspace/kanban/board.php:19
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:15
+msgid "Kanban Board"
+msgstr "Kanban Board"
+
+#: /Users/henribenoit/workspace/kanban/board.php:53
+msgid "Settings"
+msgstr "Settings"
+
+#: /Users/henribenoit/workspace/kanban/board.php:144
+msgid "Add a new card to this column"
+msgstr "Add a new card to this column"
+
+#: /Users/henribenoit/workspace/kanban/board.php:160
+msgid "Click here to copy the URL of this card so that you can share it"
+msgstr "Click here to copy the URL of this card so that you can share it"
+
+#: /Users/henribenoit/workspace/kanban/board.php:216
+msgid "Tools"
+msgstr "Tools"
+
+#: /Users/henribenoit/workspace/kanban/board.php:675
+#: /Users/henribenoit/workspace/kanban/board.php:899
+msgid "Customize columns"
+msgstr "Customize columns"
+
+#: /Users/henribenoit/workspace/kanban/board.php:790
+msgid ""
+"The URL of this card was copied to you clipboard and is ready to be pasted."
+msgstr ""
+"The URL of this card was copied to you clipboard and is ready to be pasted."
+
+#: /Users/henribenoit/workspace/kanban/board.php:805
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:321
+msgid "WIP Limit reached !"
+msgstr "WIP Limit reached !"
+
+#: /Users/henribenoit/workspace/kanban/board.php:825
+msgid "Do you really want to delete this card?"
+msgstr "Do you really want to delete this card?"
+
+#: /Users/henribenoit/workspace/kanban/board.php:897
+msgid "Drag a card here to delete it or drag this icon to a card to delete it"
+msgstr "Drag a card here to delete it or drag this icon to a card to delete it"
+
+#: /Users/henribenoit/workspace/kanban/board.php:898
+msgid "Drag this icon to a board column to add a new card"
+msgstr "Drag this icon to a board column to add a new card"
+
+#: /Users/henribenoit/workspace/kanban/board.php:903
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:48
+msgid "Undo"
+msgstr "Undo"
+
+#: /Users/henribenoit/workspace/kanban/board.php:904
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:49
+msgid "Redo"
+msgstr "Redo"
+
+#: /Users/henribenoit/workspace/kanban/board.php:908
+msgid "Fullscreen"
+msgstr "Fullscreen"
+
+#: /Users/henribenoit/workspace/kanban/board.php:910
+msgid "More tools..."
+msgstr "More tools…"
+
+#: /Users/henribenoit/workspace/kanban/board.php:918
+msgid "Delete this card"
+msgstr "Delete this card"
+
+#: /Users/henribenoit/workspace/kanban/board.php:918
+#: /Users/henribenoit/workspace/kanban/delete_board.php:55
+#: /Users/henribenoit/workspace/kanban/delete_board_template.php:55
+#: /Users/henribenoit/workspace/kanban/delete_project.php:56
+msgid "Delete"
+msgstr "Delete"
+
+#: /Users/henribenoit/workspace/kanban/board.php:919
+msgid "Create a clone of this card"
+msgstr "Create a clone of this card"
+
+#: /Users/henribenoit/workspace/kanban/board.php:919
+msgid "Clone"
+msgstr "Clone"
+
+#: /Users/henribenoit/workspace/kanban/board.php:920
+msgid "Edit this card"
+msgstr "Edit this card"
+
+#: /Users/henribenoit/workspace/kanban/board.php:920
+msgid "Edit"
+msgstr "Edit"
+
+#: /Users/henribenoit/workspace/kanban/board_columns_editor.php:21
+msgid "Board Columns Editor"
+msgstr "Board Columns Editor"
+
+#: /Users/henribenoit/workspace/kanban/board_columns_editor.php:37
+msgid "Column order"
+msgstr "Column order"
+
+#: /Users/henribenoit/workspace/kanban/board_rules_editor.php:21
+msgid "Board Rules Editor"
+msgstr "Board Rules Editor"
+
+#: /Users/henribenoit/workspace/kanban/clone_board_action.php:64
+msgid "An unknown error occured."
+msgstr "An unknown error occured."
+
+#: /Users/henribenoit/workspace/kanban/clone_board_action.php:71
+msgid "SQL failure while inserting the board in the database"
+msgstr "SQL failure while inserting the board in the database"
+
+#: /Users/henribenoit/workspace/kanban/clone_board_dialog.php:26
+msgid "Copy cards:"
+msgstr "Copy cards:"
+
+#: /Users/henribenoit/workspace/kanban/customize_columns_dialog.php:46
+#: /Users/henribenoit/workspace/kanban/edit_card.php:37
+#: /Users/henribenoit/workspace/kanban/reload_board_templates_dialog.php:19
+#: /Users/henribenoit/workspace/kanban/reload_card_templates_dialog.php:19
+#: /Users/henribenoit/workspace/kanban/reload_rule_types_dialog.php:19
+#: /Users/henribenoit/workspace/kanban/retrieve_from_archive_dialog.php:50
+msgid "Cancel"
+msgstr "Cancel"
+
+#: /Users/henribenoit/workspace/kanban/deactivate_board.php:20
+#: /Users/henribenoit/workspace/kanban/deactivate_board_dialog.php:17
+#: /Users/henribenoit/workspace/kanban/display_board.php:72
+msgid "Deactivate board"
+msgstr "Deactivate board"
+
+#: /Users/henribenoit/workspace/kanban/deactivate_board.php:33
+#: /Users/henribenoit/workspace/kanban/deactivate_board_action.php:16
+msgid "Successfully deactivated the board"
+msgstr "Successfully deactivated the board"
+
+#: /Users/henribenoit/workspace/kanban/deactivate_board.php:52
+msgid "Press \"Deactivate\" if you really want to deactivate the board"
+msgstr "Press \"Deactivate\" if you really want to deactivate the board"
+
+#: /Users/henribenoit/workspace/kanban/deactivate_board.php:56
+#: /Users/henribenoit/workspace/kanban/deactivate_project.php:56
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: /Users/henribenoit/workspace/kanban/deactivate_board_dialog.php:14
+msgid "Press \"Deactivate board\" if you really want to deactivate the board"
+msgstr "Press \"Deactivate board\" if you really want to deactivate the board"
+
+#: /Users/henribenoit/workspace/kanban/deactivate_project.php:33
+#: /Users/henribenoit/workspace/kanban/deactivate_project_action.php:16
+msgid "Successfully deactivated the project"
+msgstr "Successfully deactivated the project"
+
+#: /Users/henribenoit/workspace/kanban/deactivate_project.php:52
+msgid "Press \"Deactivate\" if you really want to deactivate the project"
+msgstr "Press \"Deactivate\" if you really want to deactivate the project"
+
+#: /Users/henribenoit/workspace/kanban/deactivate_project_dialog.php:14
+msgid ""
+"Press \"Deactivate project\" if you really want to deactivate the project"
+msgstr ""
+"Press \"Deactivate project\" if you really want to deactivate the project"
+
+#: /Users/henribenoit/workspace/kanban/deactivate_project_dialog.php:17
+msgid "Deactivate project"
+msgstr "Deactivate project"
+
+#: /Users/henribenoit/workspace/kanban/delete_board.php:35
+#: /Users/henribenoit/workspace/kanban/delete_board_action.php:24
+#: /Users/henribenoit/workspace/kanban/delete_board_template.php:35
+msgid "Successfully deleted the board"
+msgstr "Successfully deleted the board"
+
+#: /Users/henribenoit/workspace/kanban/delete_board.php:51
+#: /Users/henribenoit/workspace/kanban/delete_board_template.php:51
+msgid "Press \"Delete\" if you really want to delete the board"
+msgstr "Press \"Delete\" if you really want to delete the board"
+
+#: /Users/henribenoit/workspace/kanban/delete_board.php:69
+#: /Users/henribenoit/workspace/kanban/delete_board_template.php:69
+msgid "Display project information"
+msgstr "Display project information"
+
+#: /Users/henribenoit/workspace/kanban/delete_board_action.php:33
+#: /Users/henribenoit/workspace/kanban/delete_project_action.php:61
+msgid "Successfully reset corresponding last accessed boards for users"
+msgstr "Successfully reset corresponding last accessed boards for users"
+
+#: /Users/henribenoit/workspace/kanban/delete_board_action.php:41
+#: /Users/henribenoit/workspace/kanban/delete_project_action.php:45
+msgid "Successfully deleted the corresponding user-board relationships"
+msgstr "Successfully deleted the corresponding user-board relationships"
+
+#: /Users/henribenoit/workspace/kanban/delete_board_action.php:48
+#: /Users/henribenoit/workspace/kanban/delete_project_action.php:52
+msgid "Successfully deleted the corresponding board columns"
+msgstr "Successfully deleted the corresponding board columns"
+
+#: /Users/henribenoit/workspace/kanban/delete_board_dialog.php:14
+msgid "Press \"Delete board\" if you really want to delete the board"
+msgstr "Press \"Delete board\" if you really want to delete the board"
+
+#: /Users/henribenoit/workspace/kanban/delete_project.php:33
+#: /Users/henribenoit/workspace/kanban/delete_project_action.php:22
+msgid "Successfully deleted the project"
+msgstr "Successfully deleted the project"
+
+#: /Users/henribenoit/workspace/kanban/delete_project.php:52
+msgid "Press \"Delete\" if you really want to delete the project"
+msgstr "Press \"Delete\" if you really want to delete the project"
+
+#: /Users/henribenoit/workspace/kanban/delete_project_action.php:30
+msgid "Successfully deleted the corresponding boards"
+msgstr "Successfully deleted the corresponding boards"
+
+#: /Users/henribenoit/workspace/kanban/delete_project_action.php:38
+msgid "Successfully deleted the corresponding user-project relationships"
+msgstr "Successfully deleted the corresponding user-project relationships"
+
+#: /Users/henribenoit/workspace/kanban/delete_project_dialog.php:13
+msgid "Press \"Delete project\" if you really want to delete the project"
+msgstr "Press \"Delete project\" if you really want to delete the project"
+
+#: /Users/henribenoit/workspace/kanban/delete_role_action.php:26
+msgid "Successfully deleted the role"
+msgstr "Successfully deleted the role"
+
+#: /Users/henribenoit/workspace/kanban/delete_role_dialog.php:13
+msgid "Press \"Delete role\" if you really want to delete the role"
+msgstr "Press \"Delete role\" if you really want to delete the role"
+
+#: /Users/henribenoit/workspace/kanban/delete_user_action.php:36
+msgid "Successfully deleted the user"
+msgstr "Successfully deleted the user"
+
+#: /Users/henribenoit/workspace/kanban/delete_user_dialog.php:13
+msgid "Press \"Delete user\" if you really want to delete the user"
+msgstr "Press \"Delete user\" if you really want to delete the user"
+
+#: /Users/henribenoit/workspace/kanban/display_board.php:21
+msgid "Board Details"
+msgstr "Board Details"
+
+#: /Users/henribenoit/workspace/kanban/display_board.php:37
+#: /Users/henribenoit/workspace/kanban/display_board_action.php:23
+msgid "Board updated"
+msgstr "Board updated"
+
+#: /Users/henribenoit/workspace/kanban/display_board.php:84
+msgid "Edit board columns"
+msgstr "Edit board columns"
+
+#: /Users/henribenoit/workspace/kanban/display_board.php:85
+msgid "Edit board rules"
+msgstr "Edit board rules"
+
+#: /Users/henribenoit/workspace/kanban/display_board.php:107
+msgid "Rules"
+msgstr "Rules"
+
+#: /Users/henribenoit/workspace/kanban/display_board.php:116
+#: /Users/henribenoit/workspace/kanban/display_board_dialog.php:29
+msgid "Card attributes"
+msgstr "Card attributes"
+
+#: /Users/henribenoit/workspace/kanban/display_board.php:125
+#: /Users/henribenoit/workspace/kanban/display_board_dialog.php:35
+msgid "Card appearance"
+msgstr "Card appearance"
+
+#: /Users/henribenoit/workspace/kanban/display_board.php:134
+#: /Users/henribenoit/workspace/kanban/display_board_dialog.php:41
+msgid "Card Scripting"
+msgstr "Card Scripting"
+
+#: /Users/henribenoit/workspace/kanban/display_board.php:148
+msgid "Board not found !"
+msgstr "Board not found !"
+
+#: /Users/henribenoit/workspace/kanban/display_board_action.php:26
+msgid "Error updating the board"
+msgstr "Error updating the board"
+
+#: /Users/henribenoit/workspace/kanban/display_board_dialog.php:47
+msgid "Update board"
+msgstr "Update board"
+
+#: /Users/henribenoit/workspace/kanban/display_project.php:21
+msgid "Project Details"
+msgstr "Project Details"
+
+#: /Users/henribenoit/workspace/kanban/display_project.php:39
+#: /Users/henribenoit/workspace/kanban/display_project_dialog.php:20
+msgid "User name"
+msgstr "User name"
+
+#: /Users/henribenoit/workspace/kanban/display_project.php:40
+#: /Users/henribenoit/workspace/kanban/display_project_dialog.php:21
+msgid "Access type"
+msgstr "Access type"
+
+#: /Users/henribenoit/workspace/kanban/display_project.php:41
+#: /Users/henribenoit/workspace/kanban/display_project_dialog.php:22
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:95
+#: /Users/henribenoit/workspace/kanban/project_admin.php:33
+msgid "Actions"
+msgstr "Actions"
+
+#: /Users/henribenoit/workspace/kanban/display_project.php:49
+#: /Users/henribenoit/workspace/kanban/display_project_dialog.php:30
+msgid "Remove from project"
+msgstr "Remove from project"
+
+#: /Users/henribenoit/workspace/kanban/display_project.php:59
+#: /Users/henribenoit/workspace/kanban/display_project_dialog.php:42
+msgid "No user yet assigned to this project."
+msgstr "No user yet assigned to this project."
+
+#: /Users/henribenoit/workspace/kanban/display_project.php:62
+#: /Users/henribenoit/workspace/kanban/display_project_dialog.php:49
+msgid "Add an existing user to this project."
+msgstr "Add an existing user to this project."
+
+#: /Users/henribenoit/workspace/kanban/edit_card.php:36
+msgid "Save card"
+msgstr "Save card"
+
+#: /Users/henribenoit/workspace/kanban/excel_export.php:38
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:99
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:110
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:144
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:163
+msgid "Column"
+msgstr "Column"
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:21
+msgid "Export board as template"
+msgstr "Export board as template"
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:50
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:36
+#, php-format
+msgid "The board template name must have between %1$d and %2$d characters."
+msgstr "The board template name must have between %1$d and %2$d characters."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:53
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:39
+msgid "The board template name must only contain alphanumeric characters."
+msgstr "The board template name must only contain alphanumeric characters."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:56
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:42
+#, php-format
+msgid ""
+"The board template display name must have between %1$d and %2$d characters."
+msgstr ""
+"The board template display name must have between %1$d and %2$d characters."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:60
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:46
+#, php-format
+msgid "The card template name must have between %1$d and %2$d characters."
+msgstr "The card template name must have between %1$d and %2$d characters."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:63
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:49
+msgid "The card template name must only contain alphanumeric characters."
+msgstr "The card template name must only contain alphanumeric characters."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:66
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:52
+#, php-format
+msgid ""
+"The card template display name must have between %1$d and %2$d characters."
+msgstr ""
+"The card template display name must have between %1$d and %2$d characters."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:70
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:56
+msgid ""
+"Both the board template name and the board template name cannot be empty."
+msgstr ""
+"Both the board template name and the board template name cannot be empty."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:79
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:65
+msgid "Board template name already exists."
+msgstr "Board template name already exists."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:82
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:68
+msgid "Board template display name already exists."
+msgstr "Board template display name already exists."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:85
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:71
+msgid "SQL syntax error while creating the board template."
+msgstr "SQL syntax error while creating the board template."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:88
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:74
+msgid "Failed to create board template."
+msgstr "Failed to create board template."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:96
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:82
+msgid "Card template name already exists."
+msgstr "Card template name already exists."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:99
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:85
+msgid "SQL syntax error while creating the card template."
+msgstr "SQL syntax error while creating the card template."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:102
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:88
+msgid "Failed to create card template."
+msgstr "Failed to create card template."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:107
+#: /Users/henribenoit/workspace/kanban/export_board_action.php:93
+msgid "Template(s) successfully created."
+msgstr "Template(s) successfully created."
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:121
+#: /Users/henribenoit/workspace/kanban/export_board_dialog.php:16
+msgid "Board Template Name:"
+msgstr "Board Template Name:"
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:122
+#: /Users/henribenoit/workspace/kanban/export_board_dialog.php:17
+msgid "Board Template Name"
+msgstr "Board Template Name"
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:125
+#: /Users/henribenoit/workspace/kanban/export_board_dialog.php:20
+msgid "Board Template Display Name:"
+msgstr "Board Template Display Name:"
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:126
+#: /Users/henribenoit/workspace/kanban/export_board_dialog.php:21
+msgid "Board Template Display Name"
+msgstr "Board Template Display Name"
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:135
+#: /Users/henribenoit/workspace/kanban/export_board_dialog.php:30
+msgid "Card Template Name:"
+msgstr "Card Template Name:"
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:136
+#: /Users/henribenoit/workspace/kanban/export_board_dialog.php:31
+msgid "Card Template Name"
+msgstr "Card Template Name"
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:139
+#: /Users/henribenoit/workspace/kanban/export_board_dialog.php:34
+msgid "Card Template Display Name:"
+msgstr "Card Template Display Name:"
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:140
+#: /Users/henribenoit/workspace/kanban/export_board_dialog.php:35
+msgid "Card Template Display Name"
+msgstr "Card Template Display Name"
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:149
+msgid "Export"
+msgstr "Export"
+
+#: /Users/henribenoit/workspace/kanban/export_board.php:153
+msgid "Back to the board details"
+msgstr "Back to the board details"
+
+#: /Users/henribenoit/workspace/kanban/export_board_dialog.php:43
+msgid "Export board"
+msgstr "Export board"
+
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:32
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:148
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:88
+msgid "Error building email template"
+msgstr "Error building email template"
+
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:38
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:154
+#: /Users/henribenoit/workspace/kanban/register.php:75
+#: /Users/henribenoit/workspace/kanban/register_action.php:70
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:94
+msgid "Fatal error attempting mail, contact your server administrator"
+msgstr "Fatal error attempting mail, contact your server administrator"
+
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:53
+msgid "We have emailed you a new password"
+msgstr "We have emailed you a new password"
+
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:80
+msgid "Lost password request cancelled"
+msgstr "Lost password request cancelled"
+
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:96
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:18
+#: /Users/henribenoit/workspace/kanban/user_settings.php:42
+msgid "Please enter your email address"
+msgstr "Please enter your email address"
+
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:106
+#: /Users/henribenoit/workspace/kanban/login.php:31
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:28
+msgid "Please enter your username"
+msgstr "Please enter your username"
+
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:110
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:32
+msgid "Invalid username"
+msgstr "Invalid username"
+
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:119
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:40
+msgid "Username or email address is invalid"
+msgstr "Username or email address is invalid"
+
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:127
+msgid "There is already a outstanding lost password request on this account"
+msgstr "There is already a outstanding lost password request on this account"
+
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:137
+msgid "Confirm"
+msgstr "Confirm"
+
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:138
+msgid "Deny"
+msgstr "Deny"
+
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:165
+msgid ""
+"We have emailed you instructions on how to regain access to your account"
+msgstr ""
+"We have emailed you instructions on how to regain access to your account"
+
+#: /Users/henribenoit/workspace/kanban/forgot-password.php:186
+#: /Users/henribenoit/workspace/kanban/left-nav.php:39
+#: /Users/henribenoit/workspace/kanban/models/menu.php:33
+msgid "Forgot Password"
+msgstr "Forgot Password"
+
+#: /Users/henribenoit/workspace/kanban/functions.php:970
+#, php-format
+msgid "Unknown attribute %1$s on board %2$d"
+msgstr "Unknown attribute %1$s on board %2$d"
+
+#: /Users/henribenoit/workspace/kanban/functions.php:1222
+#, php-format
+msgid "A configured rule (%1$s) does not allow this."
+msgstr "A configured rule (%1$s) does not allow this."
+
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:58
+msgid "Manage statistics"
+msgstr "Manage statistics"
+
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:110
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:114
+msgid "No filter"
+msgstr "No filter"
+
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:392
+msgid "Not yet implemented !"
+msgstr "Not yet implemented !"
+
+#: /Users/henribenoit/workspace/kanban/generic_list_view.php:415
+msgid "Filter"
+msgstr "Filter"
+
+#: /Users/henribenoit/workspace/kanban/left-nav.php:13
+#: /Users/henribenoit/workspace/kanban/models/menu.php:12
+msgid "Board"
+msgstr "Board"
+
+#: /Users/henribenoit/workspace/kanban/left-nav.php:14
+#: /Users/henribenoit/workspace/kanban/models/menu.php:13
+msgid "Account Home"
+msgstr "Account Home"
+
+#: /Users/henribenoit/workspace/kanban/left-nav.php:15
+#: /Users/henribenoit/workspace/kanban/user_settings.php:116
+#: /Users/henribenoit/workspace/kanban/models/menu.php:14
+msgid "User Settings"
+msgstr "User Settings"
+
+#: /Users/henribenoit/workspace/kanban/left-nav.php:36
+#: /Users/henribenoit/workspace/kanban/models/menu.php:30
+msgid "Home"
+msgstr "Home"
+
+#: /Users/henribenoit/workspace/kanban/left-nav.php:37
+#: /Users/henribenoit/workspace/kanban/login.php:110
+#: /Users/henribenoit/workspace/kanban/login.php:134
+#: /Users/henribenoit/workspace/kanban/models/menu.php:31
+msgid "Login"
+msgstr "Login"
+
+#: /Users/henribenoit/workspace/kanban/left-nav.php:43
+#: /Users/henribenoit/workspace/kanban/models/menu.php:37
+msgid "Resend Activation Email"
+msgstr "Resend Activation Email"
+
+#: /Users/henribenoit/workspace/kanban/login.php:35
+#: /Users/henribenoit/workspace/kanban/user_settings.php:31
+msgid "Please enter your password"
+msgstr "Please enter your password"
+
+#: /Users/henribenoit/workspace/kanban/login.php:43
+#: /Users/henribenoit/workspace/kanban/login.php:61
+msgid "Username or password is invalid"
+msgstr "Username or password is invalid"
+
+#: /Users/henribenoit/workspace/kanban/login.php:51
+msgid ""
+"Your account is in-active. Check your emails / spam folder for account "
+"activation instructions"
+msgstr ""
+"Your account is in-active. Check your emails / spam folder for account "
+"activation instructions"
+
+#: /Users/henribenoit/workspace/kanban/login.php:126
+#: /Users/henribenoit/workspace/kanban/register.php:120
+#: /Users/henribenoit/workspace/kanban/register_dialog.php:19
+#: /Users/henribenoit/workspace/kanban/user_settings.php:128
+msgid "Password:"
+msgstr "Password:"
+
+#: /Users/henribenoit/workspace/kanban/project_admin.php:30
+msgid "Short name"
+msgstr "Short name"
+
+#: /Users/henribenoit/workspace/kanban/project_admin.php:31
+msgid "Display name"
+msgstr "Display name"
+
+#: /Users/henribenoit/workspace/kanban/project_admin.php:32
+msgid "Active"
+msgstr "Active"
+
+#: /Users/henribenoit/workspace/kanban/project_admin.php:69
+msgid "Add a new project"
+msgstr "Add a new project"
+
+#: /Users/henribenoit/workspace/kanban/register.php:29
+#: /Users/henribenoit/workspace/kanban/register_action.php:24
+msgid "Failed security question"
+msgstr "Failed security question"
+
+#: /Users/henribenoit/workspace/kanban/register.php:33
+#: /Users/henribenoit/workspace/kanban/register_action.php:28
+#, php-format
+msgid "Your username must be between %1$d and %2$d characters in length"
+msgstr "Your username must be between %1$d and %2$d characters in length"
+
+#: /Users/henribenoit/workspace/kanban/register.php:36
+#: /Users/henribenoit/workspace/kanban/register_action.php:31
+msgid "Username can only include alpha-numeric characters"
+msgstr "Username can only include alpha-numeric characters"
+
+#: /Users/henribenoit/workspace/kanban/register.php:40
+#: /Users/henribenoit/workspace/kanban/register_action.php:35
+#, php-format
+msgid "Your display name must be between %1$d and %2$d characters in length"
+msgstr "Your display name must be between %1$d and %2$d characters in length"
+
+#: /Users/henribenoit/workspace/kanban/register.php:47
+#: /Users/henribenoit/workspace/kanban/register_action.php:42
+#, php-format
+msgid "Your password must be between %1$d and %2$d characters in length"
+msgstr "Your password must be between %1$d and %2$d characters in length"
+
+#: /Users/henribenoit/workspace/kanban/register.php:51
+#: /Users/henribenoit/workspace/kanban/register_action.php:46
+#: /Users/henribenoit/workspace/kanban/user_settings.php:36
+#: /Users/henribenoit/workspace/kanban/user_settings.php:77
+msgid "Your password and confirmation password must match"
+msgstr "Your password and confirmation password must match"
+
+#: /Users/henribenoit/workspace/kanban/register.php:66
+#: /Users/henribenoit/workspace/kanban/register_action.php:61
+#, php-format
+msgid "Username %1$s is already in use"
+msgstr "Username %1$s is already in use"
+
+#: /Users/henribenoit/workspace/kanban/register.php:112
+#: /Users/henribenoit/workspace/kanban/register_dialog.php:11
+msgid "User Name:"
+msgstr "User Name:"
+
+#: /Users/henribenoit/workspace/kanban/register.php:124
+#: /Users/henribenoit/workspace/kanban/register_dialog.php:23
+msgid "Confirm:"
+msgstr "Confirm:"
+
+#: /Users/henribenoit/workspace/kanban/register.php:132
+#: /Users/henribenoit/workspace/kanban/register_dialog.php:31
+msgid "Security Code:"
+msgstr "Security Code:"
+
+#: /Users/henribenoit/workspace/kanban/register.php:136
+#: /Users/henribenoit/workspace/kanban/register_dialog.php:35
+msgid "Enter Security Code:"
+msgstr "Enter Security Code:"
+
+#: /Users/henribenoit/workspace/kanban/register.php:137
+#: /Users/henribenoit/workspace/kanban/register_dialog.php:36
+msgid "Security Code"
+msgstr "Security Code"
+
+#: /Users/henribenoit/workspace/kanban/register_dialog.php:39
+msgid "Register user"
+msgstr "Register user"
+
+#: /Users/henribenoit/workspace/kanban/reload_board_templates_action.php:21
+msgid "Error importing the board templates"
+msgstr "Error importing the board templates"
+
+#: /Users/henribenoit/workspace/kanban/reload_board_templates_action.php:25
+msgid "Successfully imported the board templates"
+msgstr "Successfully imported the board templates"
+
+#: /Users/henribenoit/workspace/kanban/reload_board_templates_dialog.php:12
+#: /Users/henribenoit/workspace/kanban/reload_card_templates_dialog.php:12
+msgid ""
+"Do you really want to reload all templates from the installation folder ?"
+msgstr ""
+"Do you really want to reload all templates from the installation folder ?"
+
+#: /Users/henribenoit/workspace/kanban/reload_board_templates_dialog.php:14
+#: /Users/henribenoit/workspace/kanban/reload_card_templates_dialog.php:14
+msgid "Note that it will cause all changes made to templates to be lost."
+msgstr "Note that it will cause all changes made to templates to be lost."
+
+#: /Users/henribenoit/workspace/kanban/reload_board_templates_dialog.php:18
+msgid "Reload board templates"
+msgstr "Reload board templates"
+
+#: /Users/henribenoit/workspace/kanban/reload_board_templates_dialog.php:18
+#: /Users/henribenoit/workspace/kanban/reload_card_templates_dialog.php:18
+#: /Users/henribenoit/workspace/kanban/reload_rule_types_dialog.php:18
+msgid "Reload"
+msgstr "Reload"
+
+#: /Users/henribenoit/workspace/kanban/reload_card_templates_action.php:21
+msgid "Error importing the card templates"
+msgstr "Error importing the card templates"
+
+#: /Users/henribenoit/workspace/kanban/reload_card_templates_action.php:25
+msgid "Successfully imported the card templates"
+msgstr "Successfully imported the card templates"
+
+#: /Users/henribenoit/workspace/kanban/reload_card_templates_dialog.php:18
+msgid "Reload card templates"
+msgstr "Reload card templates"
+
+#: /Users/henribenoit/workspace/kanban/reload_rule_types_action.php:20
+msgid "Error importing the rule types"
+msgstr "Error importing the rule types"
+
+#: /Users/henribenoit/workspace/kanban/reload_rule_types_action.php:24
+msgid "Successfully imported the rule types"
+msgstr "Successfully imported the rule types"
+
+#: /Users/henribenoit/workspace/kanban/reload_rule_types_dialog.php:12
+msgid ""
+"Do you really want to reload all rule types from the installation folder ?"
+msgstr ""
+"Do you really want to reload all rule types from the installation folder ?"
+
+#: /Users/henribenoit/workspace/kanban/reload_rule_types_dialog.php:14
+msgid "Note that it will cause all changes made to rule types to be lost."
+msgstr "Note that it will cause all changes made to rule types to be lost."
+
+#: /Users/henribenoit/workspace/kanban/reload_rule_types_dialog.php:18
+msgid "Reload rule types"
+msgstr "Reload rule types"
+
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:49
+msgid "Your account is already activated"
+msgstr "Your account is already activated"
+
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:63
+#, php-format
+msgid ""
+"An activation email has already been sent to this email address in the last "
+"%1$d hour(s)"
+msgstr ""
+"An activation email has already been sent to this email address in the last "
+"%1$d hour(s)"
+
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:99
+msgid "We have emailed you a new activation link, please check your email"
+msgstr "We have emailed you a new activation link, please check your email"
+
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:127
+msgid "Resend Activation"
+msgstr "Resend Activation"
+
+#: /Users/henribenoit/workspace/kanban/resend-activation.php:141
+msgid "This feature is currently disabled"
+msgstr "This feature is currently disabled"
+
+#: /Users/henribenoit/workspace/kanban/retrieve_from_archive_action.php:19
+msgid "Card retrieved"
+msgstr "Card retrieved"
+
+#: /Users/henribenoit/workspace/kanban/retrieve_from_archive_action.php:23
+msgid "Error retrieving the cards"
+msgstr "Error retrieving the cards"
+
+#: /Users/henribenoit/workspace/kanban/retrieve_from_archive_dialog.php:22
+msgid "Number"
+msgstr "Number"
+
+#: /Users/henribenoit/workspace/kanban/retrieve_from_archive_dialog.php:49
+msgid "Retrieve cards"
+msgstr "Retrieve cards"
+
+#: /Users/henribenoit/workspace/kanban/user_settings.php:65
+msgid "Please enter your new password"
+msgstr "Please enter your new password"
+
+#: /Users/henribenoit/workspace/kanban/user_settings.php:69
+msgid "Please confirm your new password"
+msgstr "Please confirm your new password"
+
+#: /Users/henribenoit/workspace/kanban/user_settings.php:73
+#, php-format
+msgid "New password must be between %1$d and %2$d characters in length"
+msgstr "New password must be between %1$d and %2$d characters in length"
+
+#: /Users/henribenoit/workspace/kanban/user_settings.php:89
+msgid "You cannot update with the same password"
+msgstr "You cannot update with the same password"
+
+#: /Users/henribenoit/workspace/kanban/user_settings.php:95
+msgid "Account password updated"
+msgstr "Account password updated"
+
+#: /Users/henribenoit/workspace/kanban/user_settings.php:100
+msgid "Nothing to update"
+msgstr "Nothing to update"
+
+#: /Users/henribenoit/workspace/kanban/user_settings.php:136
+msgid "New Password:"
+msgstr "New Password:"
+
+#: /Users/henribenoit/workspace/kanban/user_settings.php:140
+msgid "Confirm Password:"
+msgstr "Confirm Password:"
+
+#: /Users/henribenoit/workspace/kanban/includes/not_set_current_board.php:4
+msgid "No board available. Please go to the Project Administration."
+msgstr "No board available. Please go to the Project Administration."
+
+#: /Users/henribenoit/workspace/kanban/install/index.php:10
+#: /Users/henribenoit/workspace/kanban/models/db-settings.php:33
+#: /Users/henribenoit/workspace/kanban/updates/index.php:23
+msgid "amazingweb Kanban"
+msgstr "amazingweb Kanban"
+
+#: /Users/henribenoit/workspace/kanban/install/index.php:16
+#: /Users/henribenoit/workspace/kanban/models/db-settings.php:41
+#: /Users/henribenoit/workspace/kanban/models/db-settings.php:53
+msgid "Installer"
+msgstr "Installer"
+
+#: /Users/henribenoit/workspace/kanban/install/index.php:297
+msgid "Database setup complete, you can now register a user."
+msgstr "Database setup complete, you can now register a user."
+
+#: /Users/henribenoit/workspace/kanban/install/index.php:302
+msgid "Try again"
+msgstr "Try again"
+
+#: /Users/henribenoit/workspace/kanban/install/index.php:309
+msgid "Install now !"
+msgstr "Install now !"
+
+#: /Users/henribenoit/workspace/kanban/models/class.newuser.php:62
+#, php-format
+msgid ""
+"You will need to activate your account before you can login. Please follow "
+"the link below to activate your account. \\n\\n%1$sactivate-account.php?"
+"token=%2$s"
+msgstr ""
+"You will need to activate your account before you can login. Please follow "
+"the link below to activate your account. \\n\\n%1$sactivate-account.php?"
+"token=%2$s"
+
+#: /Users/henribenoit/workspace/kanban/models/class.newuser.php:86
+msgid "User successfully registered and activation email sent."
+msgstr "User successfully registered and activation email sent."
+
+#: /Users/henribenoit/workspace/kanban/models/class.newuser.php:89
+msgid ""
+"You have successfully registered. You will soon receive an activation email."
+"<br>You must activate your account before logging in."
+msgstr ""
+"You have successfully registered. You will soon receive an activation email."
+"<br>You must activate your account before logging in."
+
+#: /Users/henribenoit/workspace/kanban/models/class.newuser.php:96
+msgid "User successfully registered and activated."
+msgstr "User successfully registered and activated."
+
+#: /Users/henribenoit/workspace/kanban/models/class.newuser.php:99
+msgid ""
+"You have successfully registered. You can now login <a href=\"login.php"
+"\">here</a>."
+msgstr ""
+"You have successfully registered. You can now login <a href=\"login.php"
+"\">here</a>."
+
+#: /Users/henribenoit/workspace/kanban/models/db-settings.php:43
+#, php-format
+msgid "Please update the file %1$s before starting the installer."
+msgstr "Please update the file %1$s before starting the installer."
+
+#: /Users/henribenoit/workspace/kanban/models/db-settings.php:45
+msgid "Currently configured:"
+msgstr "Currently configured:"
+
+#: /Users/henribenoit/workspace/kanban/models/db-settings.php:46
+#, php-format
+msgid "Host : %1$s"
+msgstr "Host : %1$s"
+
+#: /Users/henribenoit/workspace/kanban/models/db-settings.php:47
+#, php-format
+msgid "Database: %1$s"
+msgstr "Database: %1$s"
+
+#: /Users/henribenoit/workspace/kanban/models/db-settings.php:48
+#, php-format
+msgid "User : %1$s"
+msgstr "User : %1$s"
+
+#: /Users/henribenoit/workspace/kanban/models/db-settings.php:50
+msgid ""
+"If the data are right, please make sure that the configured database and "
+"user exist and are accessible."
+msgstr ""
+"If the data are right, please make sure that the configured database and "
+"user exist and are accessible."
+
+#: /Users/henribenoit/workspace/kanban/models/db-settings.php:52
+msgid ""
+"Once the required data are entered in the file, please click on this link:"
+msgstr ""
+"Once the required data are entered in the file, please click on this link:"
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:608
+msgid "You cannot delete the default \"new user\" group"
+msgstr "You cannot delete the default \"new user\" group"
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:611
+msgid "You cannot delete the default \"admin\" group"
+msgstr "You cannot delete the default \"admin\" group"
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:948
+#, php-format
+msgid "Truncated table %1$s....."
+msgstr "Truncated table %1$s….."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:953
+#, php-format
+msgid "Inserted basic config settings into table %1$s....."
+msgstr "Inserted basic config settings into table %1$s....."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:957
+#, php-format
+msgid "Error inserting basic config settings into table %1$s."
+msgstr "Error inserting basic config settings into table %1$s."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:963
+#, php-format
+msgid "Error truncating table %1$s."
+msgstr "Error truncating table %1$s."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:975
+#, php-format
+msgid "%1$s table created....."
+msgstr "%1$s table created....."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:979
+#, php-format
+msgid "Error constructing %1$s table."
+msgstr "Error constructing %1$s table."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:990
+#, php-format
+msgid "%1$s table updated....."
+msgstr "%1$s table updated….."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:995
+#, php-format
+msgid "Error updating %1$s table."
+msgstr "Error updating %1$s table."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:1005
+#, php-format
+msgid "Importing rule types from %1$s."
+msgstr "Importing rule types from %1$s."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:1019
+#, php-format
+msgid "Skipping %1$s as it is not a rule type."
+msgstr "Skipping %1$s as it is not a rule type."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:1024
+#, php-format
+msgid "Importing rule type: %1$s."
+msgstr "Importing rule type: %1$s."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:1066
+#, php-format
+msgid "Importing generator types from %1$s."
+msgstr "Importing generator types from %1$s."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:1080
+#, php-format
+msgid "Skipping %1$s as it is not a generator type."
+msgstr "Skipping %1$s as it is not a generator type."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:1085
+#, php-format
+msgid "Importing generator type: %1$s."
+msgstr "Importing generator type: %1$s."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:1127
+#, php-format
+msgid "Importing board templates from %1$s."
+msgstr "Importing board templates from %1$s."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:1141
+#, php-format
+msgid "Skipping %1$s as it is not a board template."
+msgstr "Skipping %1$s as it is not a board template."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:1146
+#, php-format
+msgid "Importing board template: %1$s."
+msgstr "Importing board template: %1$s."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:1218
+#, php-format
+msgid "Importing card templates from %1$s."
+msgstr "Importing card templates from %1$s."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:1232
+#, php-format
+msgid "Skipping %1$s as it is not a card template."
+msgstr "Skipping %1$s as it is not a card template."
+
+#: /Users/henribenoit/workspace/kanban/models/funcs.php:1237
+#, php-format
+msgid "Importing card template: %1$s."
+msgstr "Importing card template: %1$s."
+
+#: /Users/henribenoit/workspace/kanban/updates/index.php:29
+msgid "Updater"
+msgstr "Updater"
+
+#: /Users/henribenoit/workspace/kanban/updates/index.php:35
+#, php-format
+msgid "Installing update %1$d"
+msgstr "Installing update %1$d"
+
+#: /Users/henribenoit/workspace/kanban/updates/index.php:41
+#, php-format
+msgid "Failed to install update %1$d"
+msgstr "Failed to install update %1$d"
+
+#: /Users/henribenoit/workspace/kanban/updates/index.php:42
+msgid "Retry"
+msgstr "Retry"
+
+#: /Users/henribenoit/workspace/kanban/updates/index.php:47
+msgid "All updates installed."
+msgstr "All updates installed."
+
+#: /Users/henribenoit/workspace/kanban/updates/index.php:48
+msgid "Continue"
+msgstr "Continue"
+
+#: /Users/henribenoit/workspace/kanban/updates/index.php:57
+msgid "Update now !"
+msgstr "Update now !"
+
+#~ msgid "New user"
+#~ msgstr "New user"
+
+#~ msgid "No board yet available for this project."
+#~ msgstr "No board yet available for this project."
+
+#~ msgid "Board WIP limits"
+#~ msgstr "Board WIP limits"
+
+#~ msgid "WIP"
+#~ msgstr "WIP"
+
+#~ msgid "This page is now %1$s"
+#~ msgstr "This page is now %1$s"
+
+#~ msgid "Page access removed for %1$d role(s)"
+#~ msgstr "Page access removed for %1$d role(s)"
+
+#~ msgid "Page access added for %1$d role(s)"
+#~ msgstr "Page access added for %1$d role(s)"
+
+#~ msgid "Admin Page"
+#~ msgstr "Admin Page"
+
+#~ msgid "Page Information"
+#~ msgstr "Page Information"
+
+#~ msgid "Private:"
+#~ msgstr "Private:"
+
+#~ msgid "Page Access"
+#~ msgstr "Page Access"
+
+#~ msgid "Remove Access:"
+#~ msgstr "Remove Access:"
+
+#~ msgid "Add Access:"
+#~ msgstr "Add Access:"
+
+#~ msgid "Admin Pages"
+#~ msgstr "Admin Pages"
+
+#~ msgid "Id"
+#~ msgstr "Id"
+
+#~ msgid "Page"
+#~ msgstr "Page"
+
+#~ msgid "Access"
+#~ msgstr "Access"
+
+#~ msgid "Public"
+#~ msgstr "Public"
+
+#~ msgid "Private"
+#~ msgstr "Private"
+
+#~ msgid "Successfully removed access to %1$d page(s)"
+#~ msgstr "Successfully removed access to %1$d page(s)"
+
+#~ msgid "Successfully added access to %1$d page(s)"
+#~ msgstr "Successfully added access to %1$d page(s)"
+
+#~ msgid "Role Access"
+#~ msgstr "Role Access"
+
+#~ msgid "Public Access:"
+#~ msgstr "Public Access:"
+
+#~ msgid "An unknown error occured while preparing to add the board"
+#~ msgstr "An unknown error occured while preparing to add the board"
+
+#~ msgid "Permission name %1$s is already in use"
+#~ msgstr "Permission name %1$s is already in use"
+
+#~ msgid "Permission names must be between %1$d and %2$d characters in length"
+#~ msgstr "Permission names must be between %1$d and %2$d characters in length"
+
+#~ msgid "Permission level name changed to \"%1$s\""
+#~ msgstr "Permission level name changed to \"%1$s\""
+
+#~ msgid "Permission Information"
+#~ msgstr "Permission Information"
+
+#~ msgid "Permission Membership"
+#~ msgstr "Permission Membership"
+
+#~ msgid "Permission Access"
+#~ msgstr "Permission Access"
+
+#~ msgid "Permission Name"
+#~ msgstr "Permission Name"
+
+#~ msgid "Permission Name:"
+#~ msgstr "Permission Name:"
+
+#~ msgid "Remove Permission:"
+#~ msgstr "Remove Permission:"
+
+#~ msgid "Add Permission:"
+#~ msgstr "Add Permission:"
+
+#~ msgid "Project administration"
+#~ msgstr "Project administration"
+
+#, fuzzy
+#~ msgid "$boardid"
+#~ msgstr "Board"
+
+#~ msgid ""
+#~ "No board available. Please go to the <a class=\"header-part\" href="
+#~ "\"project_admin.php\">Project Administration</a>."
+#~ msgstr ""
+#~ "No board available. Please go to the <a class=\"header-part\" href="
+#~ "\"project_admin.php\">Project Administration</a>."
+
+#~ msgid "board Name:"
+#~ msgstr "board Name:"
+
+#~ msgid "board name already taken"
+#~ msgstr "board name already taken"
+
+#~ msgid "board \"%1$s\" successfully created."
+#~ msgstr "board \"%1$s\" successfully created."
+
+#~ msgid "The display name must have between 1 and 50 characters."
+#~ msgstr "The display name must have between 1 and 50 characters."
+
+#, fuzzy
+#~ msgid "Language path must be between %1$d and %2$d characters in length"
+#~ msgstr ""
+#~ "Your display name must be between %m1% and %m2% characters in length"
