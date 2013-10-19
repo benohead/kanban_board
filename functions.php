@@ -1,4 +1,6 @@
 <?php
+//functions used throughout kanban board
+
 require_once 'cssCrush/CssCrush.php';
 
 function currentPageURL() {
